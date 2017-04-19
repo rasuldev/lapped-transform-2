@@ -1,0 +1,7 @@
+*.exe
+*/bin/
+*/obj/
+*.suo
+*.user
+*packages/*
+!*packages/*.config

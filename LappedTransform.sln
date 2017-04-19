@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LappedTransform", "LappedTransform\LappedTransform.csproj", "{B36DB6A9-F626-42A9-8DDB-3F075FA60248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{951E63E9-85C2-448F-843D-B37A8CB4C32C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36DB6A9-F626-42A9-8DDB-3F075FA60248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36DB6A9-F626-42A9-8DDB-3F075FA60248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36DB6A9-F626-42A9-8DDB-3F075FA60248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36DB6A9-F626-42A9-8DDB-3F075FA60248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951E63E9-85C2-448F-843D-B37A8CB4C32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951E63E9-85C2-448F-843D-B37A8CB4C32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951E63E9-85C2-448F-843D-B37A8CB4C32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951E63E9-85C2-448F-843D-B37A8CB4C32C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
